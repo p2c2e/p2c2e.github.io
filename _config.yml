@@ -5,7 +5,7 @@ locale: en_US
 description: About This and maybe That
 logo: LI_Profile_Pic2 Circle.png
 search: true
-url: http://localhost:4000
+url: http://p2c2e.github.io
 
 # Jekyll configuration
 
