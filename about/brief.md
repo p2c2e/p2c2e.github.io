@@ -1,3 +1,8 @@
+---
+layout: page
+title: Résumé
+---
+
 **SUDHARSAN RANGARAJAN**
 
 Chennai / Secunderabad, India
