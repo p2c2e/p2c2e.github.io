@@ -4,13 +4,11 @@ title: "There is magic in them files..."
 excerpt: "Back in olden days, we used to use a command called 'file'."
 categories: articles
 tags: [sample-post, readability, test]
-author: billy_rick
+author: sudharsan
 comments: true
 share: true
 image:
   feature: so-simple-sample-image-7.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Back in olden days, we used to use a command called "file" in *nix and related systems. While the upstart OS2, DOS and Windows operating systems encouraged file extensions by design, *nix always let the user decide what to name each file. A file name ending with ".exe" need not mean it can/cannot be executed. Given the more heterogenous environments and files being copied back-n-forth with total disregard, we had to check whether the file is really what it seems to be... To take a trivial case, text files copied back and forth between DOS and *nix...
