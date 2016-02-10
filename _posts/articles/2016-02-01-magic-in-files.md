@@ -3,7 +3,7 @@ layout: post
 title: "There is magic in them files..."
 excerpt: "Back in olden days, we used to use a command called 'file'."
 categories: articles
-tags: [sample-post, readability, test]
+tags: [technology, linux, bitcoin]
 author: sudharsan
 comments: true
 share: true
