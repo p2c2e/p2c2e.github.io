@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Hello World"
+title: "A decent developer laptop running on Linux"
 modified:
 categories: blog
-excerpt: ""
-tags: []
+excerpt: "Steps that I took to build a new developer laptop"
+tags: [linux, dell, technology, windows]
 image:
   feature:
 date: 2014-08-08T15:39:55-04:00
