@@ -39,27 +39,3 @@ Choice of Linux flavors:
 	 Finally decided to go with one of either Fedora or Limux Mint 
 		 While Fedora would have given me bleeding edge stuff and helped me with tinkering, I want to tke this opp to learn something new. With yum given way to dnf, I might as well learn apt-get/aptitude!
 		 Linux Mint Cinnamon was the choice
-
-Install Mint on 5558 
-	 After a flawless install (custom layout), I found the machine was not booting up! Something about not being able to find a bootable partition. After racking my brain about active/primry partition, layout etc. I decided to peek into the BIOS settings.
-	 Dell ships with Windows w/ UEFI enabled. I suspected that some kind of security check was causing the issues. 
-	 Changed BIOS settings as followws and installed / booted without issues:
-		 Disable UEFI and enable Legacy Mode for accessing the disks
-		 Ubuntu that ships on Dell supposedy has tweaks to get things working. So, it is not same as the one we would download from the ubuntu/mint sites.
-	 Back in the days - I remember grappling nVidia (free/non-free) driver issues all the time. I had to have custom patches to get things to work. Pleasantly surprised to see the screen at full resolution off the bat!
-
-Teething issues:
-	 I have been noticing that 'suspend' seems to work, 'resume' works only occasionally. On resumption, the screen displays the last view (whether it was the lock screen or desktop) and there is no cursor, any screen refreshes.
-	 Based on a hunch and some googling, I have since changed the "Administration -> Login Window -> Options -> Default Session" to have "Cinnamon (Software Rendering)". I have since not seen issues for the past couple of resumes.
-	 IF you try the last tip, you should logout and log-back into the system after the change.
-
-Cool parts:
-	 Around 2006 is when I last had a primary Linux machine. THere was lot of discussion on cgroups at the time when I was with qemu, kvm and virtual box. I did not quite understand what the use case was.
-	 Glad to note that I was wrong. The whole *docker* ecosystem would not be possible without cgroups. Will jot down notes on how to set things in layman terms
-
-Finding your Windows serial number:
-	 If you have a Certified Windows sticker on your machine, you are good to go1
-	 If not, you may want to try one of these tools: Speccy, Belarc Advisor ; Many of the tools "feel" shady. 
-	 There are some 'generic' serial numbers that are floating around. Not sure what they are meant for.
-	 My serial number reported by tools before/after the Windows 10 upgrade were different. 
-
