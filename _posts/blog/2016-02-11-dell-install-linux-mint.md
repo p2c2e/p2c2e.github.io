@@ -18,7 +18,7 @@ For starters, I figured I would not want to mess with our family's shared deskto
 Choice of laptops:
 
 ## Basic specifications 
-i5+, 8G+, 500G+ - without Windows preferably (to keep the costs low). No point paying for Windows and then instlling Limux anyway.
+i5+, 8G+, 500G+ - without Windows preferably (to keep the costs low). No point paying for Windows and then installing Linux anyway.
 
 ## Brands considered 
 
@@ -54,7 +54,7 @@ From what I understand once Windows 10 is activted using "Digital Entitlement", 
 
 I have always been partial to Fedora - I have been using some flavor of RedHat on my personal machines since 1998 (when the my other main option of interest was Slackware - that will give you some perspective)
 
-Finally decided to go with one of either Fedora or Limux Mint. While Fedora would have given me bleeding edge stuff and helped me with tinkering, I want to tke this opp to learn something new. With yum given way to dnf, I might as well learn apt-get/aptitude!
+Finally decided to go with one of either Fedora or Linux Mint. While Fedora would have given me bleeding edge stuff and helped me with tinkering, I want to tke this opp to learn something new. With yum given way to dnf, I might as well learn apt-get/aptitude!
 Linux Mint Cinnamon was the choice
 
 ## Install Mint on 5558 
