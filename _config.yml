@@ -6,6 +6,7 @@ description: About This and maybe That
 logo: LI_Profile_Pic2 Circle.png
 search: true
 url: http://www.diyd2.in
+comments: true
 
 # Jekyll configuration
 
@@ -51,7 +52,7 @@ owner:
   name: Sudhan
   avatar: bio-photo.jpg
   email: sudhan@diyd2.in
-  disqus-shortname:
+  disqus-shortname: pithynotes
   twitter: sudharsanr #sudharsanr
   #facebook: #username
   github: p2c2e #username

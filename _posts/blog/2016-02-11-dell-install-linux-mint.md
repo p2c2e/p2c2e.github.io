@@ -5,6 +5,7 @@ modified:
 categories: blog
 excerpt: "Steps that I took to build a new developer laptop"
 tags: [linux, dell, technology, windows]
+comments: true
 image:
   feature:
 date: 2016-02-09

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "There is magic in them files..."
+title: "There is magic in the files..."
 excerpt: "Back in olden days, we used to use a command called 'file'."
 categories: articles
 tags: [technology, linux, bitcoin]
