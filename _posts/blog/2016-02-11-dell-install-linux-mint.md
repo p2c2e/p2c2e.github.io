@@ -7,7 +7,7 @@ excerpt: "Steps that I took to build a new developer laptop"
 tags: [linux, dell, technology, windows]
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2016-02-11T15:39:55-04:00
 ---
 
 After a *long* hiatus, I recently decided to follow developments on the technology front. Most of my recent work had not given me either the time nor the need to do this.
