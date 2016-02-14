@@ -118,7 +118,7 @@ Now visit: [http://localhost:8080/java-mysql-1.0/](http://localhost:8080/java-my
 
 It should display a page like below:
 
-![Minimal Jetty MySQL Docker Homepage](/images/simple jetty page.png)
+![Minimal Jetty MySQL Docker Homepage](/images/simple-jetty-page.png)
 
 How does the Jetty server container access the MySQL server container?
 =======================
