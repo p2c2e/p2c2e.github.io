@@ -11,7 +11,7 @@ image:
   feature: so-simple-sample-image-2.jpg
 ---
 
-I personally find it much easier by looking at a working system, as opposed to getting a new system up-and-running. Probably a hang-over from my childhood days dismantling things...
+I personally find it much easier to learn new things by looking at a working system; as opposed to getting a new system up-and-running. Probably a hang-over from my childhood days dismantling anything that works...
 
 In this article, I am sharing the quickest way to get a small jsp page connect to mysql instance, both running on docker containers. 
 
