@@ -35,6 +35,7 @@ This is a principle from Discrete Mathematics. Though not directly relatable to 
 in proving algorithm bounds, limits on solutions ('no more than X satisfy some criteria') etc.
 
 In the realm of computers, some examples of use include:
+
 - Sudokus where we can solve some boxes by ruling out others
 - Bounds on compression algorithms etc. : No lossless compression algorithm can reduce the sizes of all n-bit files, because there are 2^n different n-bit files and only 2^n − 1 possible files of length less than n bits. Or in other words, any lossless algorithm will likely result in the new file with same / larger size!
 
