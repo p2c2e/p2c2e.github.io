@@ -29,7 +29,7 @@ possible states are making it hard to decide, requiring a need for arbiters.
 It has been variously extended to explain thread dead-locks due to resource contention etc.
 
 # Pigeon hole principle
-This seemingly innocuous principle states that : If there are say 10 pigeons and 9 pigeon holes (exactly fits one pigeon each), there will always be 1 pigeon left-over after they pigeons are accommodated.
+This seemingly innocuous principle states that : If there are say 10 pigeons and 9 pigeon holes (each fits only one pigeon), there will always be 1 pigeon left-over after the pigeons are accommodated.
 
 This is a principle from Discrete Mathematics. Though not directly relatable to computer science, it is very useful
 in proving algorithm bounds, limits on solutions ('no more than X satisfy some criteria') etc.
