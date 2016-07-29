@@ -39,6 +39,7 @@ The userscripts scrape the online banking page when we are visiting and adds a t
 
 In my case, I used to use GnuCash for a long time. With multiple bank accounts and Credit card statements, this came in very handy. This use case was also the reason I started delving into jQuery.
 
+If you have accounts with ICICI or Standard Chartered, you can use the scripts in my github repo as-is.
 
 # Enhancing pages with additional information
 
