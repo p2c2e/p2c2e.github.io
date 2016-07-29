@@ -17,9 +17,9 @@ Recently, someone asked me why and when I learnt Javascript. In fact, one of the
 
 For the past few years, I have whole heartedly adopted Chrome as my main browser. Prior to that, I was a Firefox fanboy primarily due to the extensions.
 
-One particular extension that I used very frequently was "GreaseMonkey". Until I found that an equivalent for that called TamperMonkey was available on Chrome, I was reluctant to switchover.
+One particular extension that I used frequently was "[GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)". Until I found that an equivalent for that called [TamperMonkey](http://tampermonkey.net/) was available on Chrome, I was reluctant to switch-over.
 
-For those who have not heard of GreaseMonkey, it is addon that allows you to run your own Javascript code within the context of any page from the net. This allows you to modify the page contents and post/pre process to your heart's content. So, the question then is, why would anyone want to modify webpages that they normally browse.
+For those who have not heard of GreaseMonkey, it is addon that allows you to run your own Javascript code within the context of any page from the net. This allows you to modify the page contents and post/pre process to your heart's content. There are thousands of free user contributed scripts available online. So, the question then is, why would anyone want to modify webpages that they normally browse.
 
 Here are 3 examples where I used GM scripts:
 
