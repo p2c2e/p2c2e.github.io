@@ -46,6 +46,8 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
+# Google services
+google_analytics: UA—81659196-1
 
 # Site owner
 owner:
