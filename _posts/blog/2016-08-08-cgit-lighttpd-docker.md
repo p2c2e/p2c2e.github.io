@@ -24,3 +24,6 @@ The entire repo is located on [github.com](https://github.com/p2c2e/docker-light
 
 The usage instructions for the 'sudhan/lighttpd-cgit' image are available on the README. Try it out and let me know.
 
+Cgit repo is hosted on itself at [https://git.zx2c4.com/cgit/about/](https://git.zx2c4.com/cgit/about/). It will give you a fair idea of what to expect.
+![Cgit website](/images/Cgit Viewer Example.png)
+
