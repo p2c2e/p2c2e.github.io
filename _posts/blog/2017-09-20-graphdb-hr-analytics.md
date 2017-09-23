@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insights using a Graph Database"
+title: "People insights using a Graph Database"
 modified:
 categories: blog
 excerpt: "I have been playing around with Graph Databases and Machine Learning in the context of HR / People development"
