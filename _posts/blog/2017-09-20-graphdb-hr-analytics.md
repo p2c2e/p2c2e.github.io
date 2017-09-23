@@ -3,7 +3,7 @@ layout: post
 title: "Insights using a Graph Database"
 modified:
 categories: blog
-excerpt: ""
+excerpt: "I have been playing around with Graph Databases and Machine Learning in the context of HR / People development"
 tags: [technology, graphdb, neo4j, cypher, hr]
 comments: true
 image:
