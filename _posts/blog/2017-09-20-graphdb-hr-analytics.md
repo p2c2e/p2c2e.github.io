@@ -47,11 +47,9 @@ Obviously, I am doing this for the insights. Here are a some interesting questio
 
 If I can whip up some code to quickly answer these questions, why is it that larger organiztions are not using such approaches already?
 
-Answer is simple - This is not a technolgy problem. Getting quality data requires connecting disparate systems that hold useful information. And for the most part, they are unreliable and "point-in-time".
+Answer is simple - This is not a technology problem. Getting quality data requires connecting disparate systems that hold useful information. And for the most part, they are unreliable and "point-in-time".
 
-Sometimes, it is possible to infer information - For example,
-
-What skills are expected in a particular team? We could get this from the team management or infer from the most common skills in the team.
+Sometimes, it is possible to infer information - For example: what skills are expected in a particular team? We could get this from the team management or infer from the most common skills in the team.
 
 # Some ideas for implementation
 - Using internal and external social platforms to capture and validate skills and endorsements
