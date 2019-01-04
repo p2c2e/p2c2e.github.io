@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Utility to convert between Freemind (.mm) and MindMeister (.mind) formats"
-excerpt: ""
+excerpt: "How to convert from .mind to .mm file format. Utility code in GoLang"
 categories: articles
 tags: [technology, golang, mindmeister, freemind, mindmap, utilities]
 author: sudharsan
