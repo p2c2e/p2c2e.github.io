@@ -39,6 +39,6 @@ mind2mm -j2m=false -in <filename.mm> -out <filename.mind>
 (converts from .mm to .mind format)
 
 Links to binaries:
-- [Windows binary](assets/files/mind2mm.exe)
-- [MacOS Binary](assets/files/mind2mm)
+- [Windows binary](/assets/files/mind2mm.exe)
+- [MacOS Binary](/assets/files/mind2mm)
 
