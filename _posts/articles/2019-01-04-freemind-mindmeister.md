@@ -38,6 +38,7 @@ mind2mm -j2m=false -in <filename.mm> -out <filename.mind>
 ```
 (converts from .mm to .mind format)
 
+Code is [in GitHub](https://github.com/p2c2e/mindmeister-to-freemind)
 Links to binaries:
 - [Windows binary](/assets/files/mind2mm.exe)
 - [MacOS Binary](/assets/files/mind2mm)
