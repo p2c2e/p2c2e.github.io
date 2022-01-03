@@ -23,8 +23,11 @@ I was hoping for a simple software fix of disabling USB power output from RPi - 
 
 After many tries, what worked for me were two changes:
 1. Cut the Power and GND wires of a perfectly good USB cable and use it for connecting the RPi to the printer PLUS
+1. If the USB cable has a metal shield (good ones do), connect the shielding back - you will see three solders in picture below.. red/white that are disconnected are the power and ground
 1. Add a RFI Suppressor on the power cable feeding into the RPi
 1. Just to be safe, run the power cable for the RPi about a foot away from the motherboard + display section of the printer.
+
+![USB rewire](/images/octoprint_usb_wire.jpg)
 
 For what cables to cut in USB - See [Wikipedia](https://en.wikipedia.org/wiki/USB) - the pinout diagrams on the right of the page. Essentially, you need to keep the center two (D+/-) cables intact and cut the two that on the outer edges.
 
