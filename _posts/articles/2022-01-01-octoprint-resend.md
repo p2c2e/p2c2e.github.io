@@ -11,6 +11,8 @@ image:
   feature: so-simple-sample-image-6.jpg
 ---
 
+![Adiyogi Lithophane](/images/adiyogi_pic.jpg)
+
 Every once in a while, I get carried away with a new hobby. The latest one in the series is 3D printing. I have been looking at this space since 2015 and neither the cost nor the interest level were enough for me to take the plunge. Then things changed in Dec-2021. What triggered this is when a small plastic part broke that required a replacement of the entire product + my search for a right-size enclosure of a DIY power supply.
 
 I bought an Ender-3-Max. One of the many mods that I have chosen to do is install and run an Octoprint server on a Raspberry PI 3B+ ; If you are into 3D Printing this is a definite upgrade/mod you want to do - it will pay dividends within days. See [Octoprint Site](https://octoprint.org/) for more details.
