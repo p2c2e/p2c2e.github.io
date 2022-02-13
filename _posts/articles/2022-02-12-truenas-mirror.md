@@ -15,6 +15,7 @@ image:
 Recently I decided to replace my old custom-build desktop with a newer setup. You may wonder, who uses a desktop anymore? I have been using mine to install licensed software that would be used by everyone in the house (like Adobe, Ableton Live etc.) as well as a local backup of important files. Usually I keep a desktop 'alive' by upgrading components over-time and on-average they are with me for 5-10 years each.
 
 Old-setup - Intel Core i3, Gigabyte MB, SSD boot + 2x 4TB Seagate HDDs, 8GB RAM 
+
 New-setup - AMD Ryzen 7 5800x, MSI MB with 6x SATA, 16G NVMe, SSD Boot, Old HDDs, 16GB RAM
 
 First hurdle to cross : Was the migration of the Windows 10 Pro license from the old SSD to the newer/larger SSD. Thankfully, this was done with no issues. I ensured that the older system license was Digitally activated AND linked to my MS account. Then I created a Restore USB for safety. I had an older copy of Seagate Disktools and I used it to clone the SSD to the newer SSD. 
@@ -44,11 +45,7 @@ Basically, there are 4 steps
 
 I am pasting the 3rd and 4th steps below, in the hopes that it will help others.
 
-(
-In my setup, ada0 was the first HDD, ada1 was the Boot SSD and the newly added drive was ada2
-pool01 is the name of the storage/data pool with the single ada0 drive - it had two partition - swap and the actual data
-I realized that I don't need the swap 
-)
+In my setup, *ada0* was the first HDD, *ada1* was the Boot SSD and the newly added drive was *ada2*.  *pool01* is the name of the storage/data pool with the single ada0 drive - it had two partition - swap and the actual data. I realized that I don't need the swap 
 
 (3) 
 ```
