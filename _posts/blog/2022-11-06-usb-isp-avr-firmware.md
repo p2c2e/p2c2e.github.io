@@ -29,6 +29,5 @@ To save time for others:
 
 You can check out the repository at https://github.com/p2c2e/usbasp.2011-05-28-zhifengsoft-USB-ISP-Clone.git
 
-![GitHub Repository](https://github.com/p2c2e/usbasp.2011-05-28-zhifengsoft-USB-ISP-Clone.git)
-![Device that I bought](https://robocraze.com/products/usb-isp-programmer-version-2-0)
-
+Device that I bought: https://robocraze.com/products/usb-isp-programmer-version-2-0
+Image: ![How the device looks like](https://cdn.shopify.com/s/files/1/0262/6564/9240/products/HatchnHack_Makerspace_HNH_Cart_Components-46_72fc1b49-2b22-429e-bd43-a8e6d2adb7b3_800x.jpg?v=1648799456)
