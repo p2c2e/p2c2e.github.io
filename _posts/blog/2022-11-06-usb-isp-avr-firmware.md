@@ -4,7 +4,7 @@ title: "Rabbithole from TinyML to Arduino to USB ISP Firmware flashing"
 modified:
 categories: blog
 excerpt: "How to get cheap chinese USB-ISP programmer clones with ATmega88 chips inside to work on MacOS"
-tags: [technology, arduino, nano, usbasp, usbisp, tinyml, zhifengsoft]
+tags: [technology, arduino, nano, usbasp, usbisp, tinyml, zhifengsoft, macos, avrdude]
 comments: true
 image:
   feature:
