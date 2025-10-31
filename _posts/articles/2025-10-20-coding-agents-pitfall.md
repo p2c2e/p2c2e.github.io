@@ -1,4 +1,16 @@
-# AI can generate code 10x faster, But will that help?
+---
+layout: post
+title: "AI can generate code 10x faster, But will that help?"
+excerpt: "SDLC and coding is small part of the business valuestream"
+categories: articles
+tags: [technology, ai, coding-assistants, theory-of-constraints, toc]
+author: sudharsan
+comments: true
+share: true
+image:
+  feature: so-simple-sample-image-6.jpg
+---
+
 ## Summary
 In the last two years, AI-assisted development has gone from novelty to mainstream. Tools that generate code, write tests, refactor, document, and even propose architectural changes are now widely accessible. The promise sounds irresistible: software development will become 10× faster. But will that actually help companies move 10× faster — or could it backfire?
 
