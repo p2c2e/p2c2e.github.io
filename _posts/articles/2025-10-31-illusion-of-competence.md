@@ -149,3 +149,6 @@ But the world still needs navigators.
 **Knowledge is knowing what works.\
 Experience is knowing what doesn't.\
 And technology moves forward only when we have both.**
+
+---
+_Read about the [story of Apollo-11](https://arstechnica.com/science/2019/07/apollo-triumph/) and how Neil Armstrong took control when the 'automated' systems failed_
