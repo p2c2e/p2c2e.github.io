@@ -3,7 +3,7 @@ layout: post
 title: "The Illusion of Competence"
 excerpt: "How do we guide the AI-centric young generation of technologies on the basics?"
 categories: articles
-tags: [technology, ai, dunning-kruger, compass, knowlege, experience]
+tags: [technology, ai, dunning-kruger, compass, knowledge, experience]
 author: sudharsan
 comments: true
 share: true
@@ -36,8 +36,7 @@ Managers quietly share the same concerns:
 - Builders who can assemble components, but not explain tradeoffs.
 - Programmers who trust AI answers even when the answers are wrong.
 
-This is not their fault.\
-They never had to learn slowly.
+This is not their fault. They never had to learn slowly. Organizations have an obligation to help them.
 
 ## The Compass: The Original "AI Problem"
 
