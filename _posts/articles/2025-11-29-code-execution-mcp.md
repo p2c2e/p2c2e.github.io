@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Code-Execution MCP - Validating Savings"
-excerpt: "Anthropic suggested a technique they call 'Code Execution with MCP', as a more efficient way to use Tokens/context. This is an attempt to validate the idea"
+excerpt: "Anthropic suggested a technique they call Code Execution with MCP, as a more efficient way to use Tokens/context. This is an attempt to validate the idea"
 categories: articles
 tags: [technology, ai, mcp, llm, tokens, agentic-ai, python]
 author: sudharsan
 comments: true
 share: true
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: so-simple-sample-image-3.jpg
 ---
 
 ## Summary
