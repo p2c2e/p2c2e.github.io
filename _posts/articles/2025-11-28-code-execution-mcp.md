@@ -35,9 +35,9 @@ Looks like, I have to write some code after all :(
 The key building blocks of a basic implementation would be:
 - Pick any Agentic framework : I chose Pydantic AI
 - Provide it with a mechanism to search file system : This is essentially part of a delicate System Prompt
-- Provide it with a mechanism to execute code (Python in our case) : System Prompt also includes 
+- Provide it with a mechanism to execute code (Python in our case) : System Prompt also includes instruction on how to use the execute_code function 
 - Provide it access to a bunch of MCPs : I selected few simple ones - including the filesystem and time operations
-- Finally, a Task that is worthy of all this complexity !!! - Could the number of files in a folder and could only .py and the number of lines in all the files, then save the results into a file with the 'current datetime as a suffix' 
+- Finally, a Task that is worthy of all this complexity !!! - Count the number of files in a folder and could only .py and the number of lines in all the files, then save the results into a file with the 'current datetime as a suffix' 
 
 
 ## The Implementation details
